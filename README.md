@@ -5,7 +5,7 @@ showcasing my projects, skills, and contact information in a clean, modern inter
 
 ## Preview
 
-![Portfolio Preview](add-your-screenshot-filename-here.png)
+![Portfolio Preview](preview.png)
 
 ## About the project
 
